@@ -1,4 +1,4 @@
-# OCB No Sudden Exit Mod - 7 Days to Die (V1.0) Addon
+# OCB No Sudden Exit Mod - 7 Days to Die (V2.0) Addon
 
 Small Harmony Mod that shows a counter instead of instantly
 exiting vehicles that are in the air. Not EAC compatible.
@@ -14,6 +14,10 @@ Otherwise please use one of the [official releases][1] here.
 Only clone or download the repo if you know what you do!
 
 ## Changelog
+
+### Version 0.4.0
+
+- Update for 7D2D V2.0 (b295)
 
 ### Version 0.3.0
 
